@@ -1,0 +1,12 @@
+.Empty {
+    text-align: center;
+    font-style: italic;
+}
+
+.Root {
+    width: 25vw;
+    padding: 10px;
+    margin-top: 10px;
+    height: 70vh;
+    overflow: scroll;
+}

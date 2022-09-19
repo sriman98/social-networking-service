@@ -1,0 +1,22 @@
+.Close {
+    position: absolute !important;
+    right: 10px;
+}
+
+.DialogActions {
+    justify-content: flex-start !important;
+}
+
+.Link {
+    color: black;
+    text-decoration: none;
+}
+
+.Link :hover {
+    text-decoration: underline;
+}
+
+.Empty {
+    text-align: center;
+    font-style: italic;
+}

@@ -1,0 +1,12 @@
+.Link {
+    color: black;
+    text-decoration: none;
+}
+
+.Link :hover {
+    text-decoration: underline;
+}
+
+.ColorRed {
+    color: red !important;
+}

@@ -1,0 +1,38 @@
+.AppBar {
+    z-index: 1201 !important;
+}
+
+.ButtonMenu {
+    position: absolute;
+    right: 10px;
+}
+
+.Button {
+    color: white !important;
+    font-weight: bold !important;
+    text-transform: none !important;
+}
+
+.Autocomplete {
+    margin-left: 50px;
+    width: 30%
+}
+
+.TextField {
+    background: white;
+    border-radius: 10px;
+}
+
+.NotificationButton {
+    color: white;
+}
+
+.Divider {
+    background-color: white !important;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+.Popper {
+    z-index: 20
+}

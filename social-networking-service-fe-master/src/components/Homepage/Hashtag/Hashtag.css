@@ -1,0 +1,21 @@
+.Root {
+    padding: 30px;
+    background-color: #fafafa;
+    height: 100%;
+}
+
+.Posts {
+    padding: 50px 15rem 0px 10rem;
+}
+
+.Avatar {
+    width: 100px !important;
+    height: 100px !important;
+}
+
+.Card {
+    padding: 20px;
+    position: sticky;
+    top: 50px !important;
+    z-index: 10;
+}

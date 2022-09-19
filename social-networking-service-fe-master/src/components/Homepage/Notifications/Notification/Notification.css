@@ -1,0 +1,17 @@
+.Link {
+    text-decoration: none;
+    margin-top: 10px !important;
+}
+
+.Link :hover {
+    background-color: #fafafa;
+    border-radius: 5px;
+}
+
+.ColorBlack {
+    color: black;
+}
+
+.ColorRead {
+    color: #9c9b9a;
+}

@@ -1,0 +1,67 @@
+.Root {
+    padding: 30px;
+    background-color: #fafafa;
+}
+
+.Posts {
+    padding: 70px 15rem 0px 10rem;
+    position: relative;
+    overflow: auto;
+}
+
+.Card {
+    padding: 20px;
+}
+
+.ColorRed {
+    color: red;
+}
+
+.Input {
+    border-radius: 10px;
+    outline: none !important;
+}
+
+.EditIcon {
+    border: 1px solid white !important;
+    background: #bdbdbd;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.Dots {
+    position: absolute !important;
+    top: 0;
+    right: 0;
+}
+
+.Sticky {
+    position: sticky;
+    top: 50px !important;
+    z-index: 10;
+}
+
+.ProfileImage {
+    width: 130px !important;
+    height: 130px !important;
+}
+
+.Count {
+    font-size: 50px;
+}
+
+.ButtonDiv {
+    position: relative;
+    width: 100%;
+}
+
+.Button {
+    position: absolute !important;
+    right: 0px;
+    z-index: 2;
+
+}
+
+.CursorPointer {
+    cursor: pointer;
+}

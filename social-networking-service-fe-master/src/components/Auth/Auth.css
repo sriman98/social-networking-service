@@ -1,0 +1,13 @@
+.CardStyle {
+    width: 30%;
+    height: 60%;
+    position: absolute;
+    top: 20%;
+    right: 10%;
+}
+
+.BackgroundImage {
+    height: 75vh;
+    margin-top: 70px;
+    margin-left: 40px;
+}

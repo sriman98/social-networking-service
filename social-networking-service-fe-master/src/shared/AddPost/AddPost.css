@@ -1,0 +1,8 @@
+.Close {
+    position: absolute !important;
+    right: 10px;
+}
+
+.TextArea {
+    width: 90%;
+}

@@ -1,0 +1,29 @@
+.Card {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.MoreButton {
+    position: absolute !important;
+    right: 0px;
+}
+
+.LikesButton {
+    text-transform: none !important;
+    padding: 0px !important;
+    margin-right: 30px !important;
+}
+
+.Link {
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.Link :hover {
+    text-decoration: underline;
+}
+
+.Typography {
+    white-space: pre-wrap;
+}

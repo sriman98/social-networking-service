@@ -1,0 +1,30 @@
+.Card {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fafafa !important;
+}
+
+.Avatar {
+    height: 20px !important;
+    width: 20px !important;
+}
+
+.IconButton {
+    padding: 0px !important;
+    text-transform: none !important;
+    text-decoration: underline !important;
+}
+
+.EditIcon {
+    font-size: 1rem !important;
+    margin-right: 10px;
+}
+
+.Link {
+    color: black;
+    text-decoration: none;
+}
+
+.Link :hover {
+    text-decoration: underline;
+}
